@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Amankrah
-- 👀 I’m interested in ... crypto mining and data analytics
-- 🌱 I’m currently learning ... data analytics
-- 💞️ I’m looking to collaborate on ... any project of interest
+- 👀 I’m interested in ... DeFi and HealthTech
+- 🌱 I’m currently building ... HealthTech app which integrate blockchain
+- 💞️ I’m looking to collaborate on ... any developer interested in Crypto and Health
 - 📫 How to reach me ... ammankrahkwofie354@gmail.com
 
 <!---
