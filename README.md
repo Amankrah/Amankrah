@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Amankrah
-- 👀 I’m interested in ... DeFi and HealthTech
-- 🌱 I’m currently building ... HealthTech app which integrate blockchain
-- 💞️ I’m looking to collaborate on ... any developer interested in Crypto and Health
-- 📫 How to reach me ... ammankrahkwofie354@gmail.com
+- 👀 I’m interested in ... AI, BlockChain and AgriNutritional Tech
+- 🌱 I have been building ... @Dish365 a lot of Decision Support Systems for Companies and Government projects
+- 💞️ I’m happy to collaborate with ... any developer interested in building intellegent Decision Support Systems
+- 📫 How to reach me ... ammankrahkwofie354@gmail.com || https://www.linkedin.com/in/eakwofie/
 
 <!---
 Amankrah/Amankrah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
